@@ -1,1 +1,1 @@
-C++ labs I have competed wihin my first semester at UTD
+This repository contains weekly labs I completeted in my Programming Fundamentals class using C/C++.
